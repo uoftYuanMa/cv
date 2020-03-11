@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(233, 243, 241);
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 6px;
+  border-color: rgb(13, 66, 66);
+  height: 0px;
+  width: 35%;
+}
+h1 {
+  color: #021616;
+}
+h1:hover {
+  color: orange;
+}
+h3 {
+  color: #669ebf;
+}
+.circular {
+  border-radius: 100%;
+
+}
+/* 
+div {
+  background-image: url("../imgs/toronto.jpg");
+} */
+
+.pro{
+    text-decoration: underline;
+}
